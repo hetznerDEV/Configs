@@ -28,3 +28,15 @@ vmess://eyJhZGQiOiIxMDkuMjQ4LjI1LjU5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIyMjEuMjM3LjI1NC4xMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJpZCI6IjE2YTI3YjQ2LTY4OTItNDBmNC05NmNkLWM3ZWJmMmQzOTc3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiOTAwMiIsInBzIjoiQ0hJTkFORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 • The Constant Company, LLC | Japan 🇯🇵
 vmess://eyJhZGQiOiIxNjcuMTc5LjExMS4yMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTk2MTg5NGYtOGU5MC00NzJmLTk4ZDMtMDk0MDJlNGJlNDUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNDkzNSIsInBzIjoiVGhlIENvbnN0YW50IENvbXBhbnksIExMQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+• Amazon Technologies Inc. | Sweden 🇸🇪
+trojan://telegram-id-privatevpns@13.50.255.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Amazon+Technologies+Inc.
+• Amazon.com, Inc. | Ireland 🇮🇪
+trojan://telegram-id-privatevpns@54.155.110.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Amazon.com%2C+Inc.
+• OVH SAS | Poland 🇵🇱
+vless://e5bdede5-53fb-40b2-b5b4-0a4fafc87ef0@146.59.116.201:443?security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&headerType=none&fp=firefox&type=tcp&sni=convertio.co&sid=e3b41bfe#OVH+SAS
+• Aeza International LTD | Austria 🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#Aeza+International+LTD
+• OVH ISP | France 🇫🇷
+vless://b24692b5-f3da-4978-af3e-727ab27ba47c@190.93.247.150:443?path=%2Fiust%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=xn--hgb3a0cs.samanehha.site&fp=firefox&type=ws&sni=xn--hgb3a0cs.samanehha.site#OVH+ISP
+• SIMCENTRIC | Hong Kong 🇭🇰
+vmess://eyJhZGQiOiJocmdkdnBuLmZseWNkbmVkYzU1LnZpcCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhyZ2R2cG4uZmx5Y2RuZWRjNTUudmlwIiwiaWQiOiIwMGExZGExNC1kNTVmLTVmNzUtZTM0Ni03OWI5ODVlMWE3MjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3B0L3ZpZGVvL2ltYWdlcyIsInBvcnQiOiI4MCIsInBzIjoiU0lNQ0VOVFJJQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
